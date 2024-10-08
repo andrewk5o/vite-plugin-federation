@@ -1,0 +1,7 @@
+{
+    "references": [
+        { "path": "./modules/module-one" },
+        { "path": "./modules/module-two" },
+        { "path": "./modules/shell" }
+    ]
+}
